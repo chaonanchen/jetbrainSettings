@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="auctionSite_all" type="PLAIN_TEXT" />
+      <mapping pattern="auctionSite_all.php" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
